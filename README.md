@@ -20,7 +20,7 @@ Each entry should:
 ## Module 1
 The most important thing I learned is some of the command function that are important to creating and using AWS to run my ubuntu instance.
 
-List of tools that I used or thing that is importnat to use: 
+List of tools that I used or thing that is important to use: 
 
 * ssh -i kyd3zj_DS5111.pem ubuntu@<Public_IPv4> 
 
@@ -31,6 +31,7 @@ List of tools that I used or thing that is importnat to use:
 * 'mkdir' -> was to make a directory to that I used a lot. 
 
 
+The challenging part was working at the command line. I have barely used the command line for coding and dealing with project in the past but most of the course deals with the command line. I am creating directories, creating makefiles, and many more at the command line. At first, when I made the makefile using 'vim makefile', I did not know how to save it. ':w' was the way to save a file that was opened using the 'vim'. When I opened the makefile later, I was not able to write in it until I hit 'esc'. To quit of the makefile, I had to 'q' and to save and quit, I had to ':wq'. These were new and important concepts that I need to pick up, but also challenging at first. I enjoyed learning what a makefile can do and the importance of it. 
 
 ## Module 2
 
