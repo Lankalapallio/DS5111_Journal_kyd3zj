@@ -2,20 +2,20 @@
 
 Each entry should answer these questions:
 
-  What were some things you learned in the module?
+  * What were some things you learned in the module?
   
-  What do you think were the most important concepts?
+  * What do you think were the most important concepts?
   
-  What was challenging for you? How can you learn it better?
+  * What was challenging for you? How can you learn it better?
   
-  Which parts did you enjoy?
+  * Which parts did you enjoy?
 
 Each entry should:
-  Use full sentences to show good writing and clear thought process
+  * Use full sentences to show good writing and clear thought process
   
-  Be limited to one or two paragraphs (it should be fairly brief)
+  * Be limited to one or two paragraphs (it should be fairly brief)
   
-  File format: Use a Word doc or similar. Recycle the same file throughout the course. Action Item: Write a journal entry for this Module. It will be submitted later.
+  * File format: Use a Word doc or similar. Recycle the same file throughout the course. Action Item: Write a journal entry for this Module. It will be submitted later.
 
 ## Module 1
 The most important thing I learned is some of the command function that are important to creating and using AWS to run my ubuntu instance.
