@@ -22,13 +22,13 @@ The most important thing I learned is some of the command function that are impo
 
 List of tools that I used or thing that is importnat to use: 
 
-*ssh -i kyd3zj_DS5111.pem ubuntu@<Public_IPv4> 
+* ssh -i kyd3zj_DS5111.pem ubuntu@<Public_IPv4> 
 
-*'vim Filename.file' was used to create makefile and anyother file such as python. 
+* 'vim Filename.file' was used to create makefile and anyother file such as python. 
 
-*'rm' -> remove a file or 'rm -rf' -> for directories to recursive force 
+* 'rm' -> remove a file or 'rm -rf' -> for directories to recursive force 
 
-*'mkdir' -> was to make a directory to that I used a lot. 
+* 'mkdir' -> was to make a directory to that I used a lot. 
 
 
 
