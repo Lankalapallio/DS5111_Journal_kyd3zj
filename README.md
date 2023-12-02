@@ -18,6 +18,19 @@ Each entry should:
   File format: Use a Word doc or similar. Recycle the same file throughout the course. Action Item: Write a journal entry for this Module. It will be submitted later.
 
 ## Module 1
+The most important thing I learned is some of the command function that are important to creating and using AWS to run my ubuntu instance.
+
+List of tools that I used or thing that is importnat to use: 
+
+*ssh -i kyd3zj_DS5111.pem ubuntu@<Public_IPv4> 
+
+*'vim Filename.file' was used to create makefile and anyother file such as python. 
+
+*'rm' -> remove a file or 'rm -rf' -> for directories to recursive force 
+
+*'mkdir' -> was to make a directory to that I used a lot. 
+
+
 
 ## Module 2
 
