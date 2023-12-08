@@ -47,6 +47,10 @@ A few linux setup commands that are useful:
 One thing that is new to me or challenging is the decorators. I found this information new and challenging. Decorators are included on the line above the function with an “@” symbol. 
 
 ## Module 3
+I learned a lot from doing the assignment then I thought. I started off with a simple makefile and now I got to see what a simple makefile can do for me. After creating the repo, I organized the directory the way that assignment told me to. I worked with creating different directories and files with a simple “vim filename.filetype”. I had to used these files to come up with a makefile that could run the clockdeco_param.py file and test it with test_clockdeco_param.py. 
+
+The biggest difficult I had for this module is understanding all the parts. When I was working on the assignment, I was not able to run my pytest or pylint. I learned that I needed to open up the env and work in it to get my test to pass. I found this an interesting lesson because I thought I can get everything to work without entering the environment that I created. I also had an issue with “;”, so when checking online, I found that “&&” has a similar idea to “;”. Even with all of these challenges, I was able to complete this lab and learned a lot from it. I found this lab helpful in understanding the whole command line and what it can do. 
+
 
 ## Module 4
 
