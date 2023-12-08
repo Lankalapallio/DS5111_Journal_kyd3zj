@@ -53,9 +53,11 @@ The biggest difficult I had for this module is understanding all the parts. When
 
 
 ## Module 4
+This week the focus is on TMUX and its purpose. In class, I was able to see a demo on the use of TMUX and how interesting it is, but I found it very hard to believe that it is an effective tool for collaboration. The idea of having everyone on in the group working on the same project at the same time was great, but when is this particle. Usually in the projects that I have worked on, we divide and conjure or use github to clone the repo and work on it on a separate branch and do a pull request. I never ran into an issue where 3 or more people had to work on a file at the same time.
 
+ The idea and the concept were easy to understand, but getting the TMUX started was slightly confusing. You would need the people who are going to work on the TMUX session with you to provide their SSH key so they can be connected to the instance and file. I found this part harder to understand in the demo and wondering about the security concerns. The book goes in to details on how to start a TMUX session. Another interesting fact that I found is that the TMUX will keep running even after exiting the “your” shell, which makes it great when you have more people working on it. 
 
-
+ 
 ## Module 5
 This week is the about testing and learning about way to create tests for your code. I have done this time of work in my previous classes, but it feels new because I am doing this in bash. In class, I learned about different types of testing, such as quality control testing and gherkin type testing (never heard of this one). Unit testing is what I believe we have been taught because it focuses on testing function and programmers expected results. “seed” is an important part in testing, when dealing with random outputs to make it repeatable. Pytest is what is what we will be using for the class. 
 
