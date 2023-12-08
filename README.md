@@ -61,7 +61,7 @@ This week is the about testing and learning about way to create tests for your c
 
 When it came to the lab, I found the most difficult part was the different tests. One test to pass, one test that fails, conditional test, a skip test, and parameterized test. Note to self: All the tests have to start with “test”. I understand and can easily do the first two types of tests but the last three were new to me in some sense. I had to relearn how to write a conditional test, which required some reading and research on my part. The direction for the skip test was easy because of the decorators, which played a important role in creating tests. The parameterized test was harder to understand but with some digging, I was able to figure it out. The book did not do a good job with the parameterized testing. I understand the decorator being involved but not how the test needed to be created. I enjoyed this lab even if it provided me with challenges because I was able to see how to create interesting and new tests and play around with decorators and function I never did before.
 
-![image](https://github.com/Lankalapallio/DS511_Journal/assets/111662645/a0812d21-cca6-4300-8965-a9f5848ea0c4)
+![image]
 
 ## Module 6
 
