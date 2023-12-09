@@ -72,6 +72,8 @@ This week I learned about CI-CD, which is Continuous Integration and Continuous 
 
 
 ## Module 7 - Containers
+In this module, I learned about containers. Containers are a unit of software that “package up code and all its dependencies so the application run quickly.” I heard about containers, but never really understood them. After seeing the picture about containers vs virtual machines, I was able to grasp some understand when people say containers. The most important concept might be container vs virtual machines. I believe that they can be used interchangeably, but the image on slide 8 and “jailing” works for the containers. It helped me understand how different they are. After learning about container, I did not understand why we use virtual machines and wanted to know about AWS containers. How do AWS containers different and how to they function? I don’t really write in the command line, so I like the virtual machine and all the tools that come with it. I found this lecture interesting, but I would like some kind of demo. I would also like to know where one would be used over the other, when dealing with the workplace and the industry.
+
 
 ## Module 8
 
