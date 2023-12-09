@@ -68,6 +68,9 @@ When it came to the lab, I found the most difficult part was the different tests
 
 ## Module 6 - CI/CD
 
+This week I learned about CI-CD, which is Continuous Integration and Continuous Deployment. These are new techniques/idea that I learn because I do not work with code as a profession or in the industry of handling code, so it is nice to hear and learn about them. For summary purpose, continuous integration (CI) is when coders test their code as they write them, such as unit or module tests. Then the code gets tested by other people to see if it can be integrated into the larger code, such as automation. Continuous delivery (CD) is when the testing passes and works as intended, the package will be pushed with new version. The whole process is like a sideways figure 8. I like these concepts because it helps me understand the industry that I want to get into and what they will except. After pushing with the validation.yml for my SW2_Lab, I learned or got an understanding the github actions. I would like to see ways we could use these more because I found them easy and fun to use, because I did not have to open AWS instance, login, and then run the code. I can do everything with a click of a button on github action. 
+
+
 ## Module 7 - Containers
 
 ## Module 8
